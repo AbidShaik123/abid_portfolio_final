@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Build output
+/build
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE and OS settings
+.DS_Store
+Thumbs.db
+
+# Vite (if using Vite)
+dist/
