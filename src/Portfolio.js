@@ -89,7 +89,7 @@ export default function Portfolio() {
       {/* Resume Section */}
       <section className="p-8 max-w-4xl mx-auto text-center">
         <a
-          href="/ABID_SHAIK"
+          href="/ABID_SHAIK.docx"
           className="bg-blue-500 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-600"
           download
         >
