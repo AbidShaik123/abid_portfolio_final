@@ -188,7 +188,6 @@ export default function Portfolio() {
           workflows, PLC/SCADA integration, OPC-UA/DA connectivity, SAP/ERP
           integration, material tracking, genealogy, traceability, testing,
           deployment, and production support.
-
         </p>
 
         <p className="text-gray-300 leading-8 mt-4">
