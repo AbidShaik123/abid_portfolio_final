@@ -63,33 +63,22 @@ export default function Portfolio() {
     ],
   };
 
-  const projects = [
-    {
-      title: "MES Production Tracking System",
-      status: "In Development",
-      stack: "Java • Spring Boot • REST APIs • SQL",
-      description:
-        "Personal MES simulation project demonstrating production-order execution, work-order management, material consumption, equipment tracking, product genealogy, traceability, and ERP-to-MES integration.",
-    },
-    {
-      title: "Industrial Equipment Integration & Monitoring",
-      stack: "PLC • SCADA • OPC UA • MES",
-      description:
-        "Manufacturing integration concept demonstrating shop-floor equipment connectivity, equipment-status monitoring, production counts, process parameters, alarms, downtime events, and automated MES data collection.",
-    },
-    {
-      title: "ERP–MES Integration Service",
-      stack: "REST APIs • Java • JSON/XML • SQL",
-      description:
-        "Integration solution demonstrating production-order exchange, master-data synchronization, material transactions, manufacturing confirmations, and production-status communication between ERP and MES systems.",
-    },
-    {
-      title: "Inventory Management API",
-      stack: "Java • Spring Boot • MySQL • REST APIs",
-      description:
-        "Backend application implementing product and inventory management, RESTful APIs, database persistence, validation, CRUD operations, and structured service-layer architecture.",
-    },
-  ];
+ const projects = [
+  {
+    title: "MES Production Tracking System",
+    status: "In Development",
+    stack: "Java • Spring Boot • MySQL • REST APIs",
+    description:
+      "A personal MES simulation project for managing production orders, work orders, equipment status, material consumption, and product genealogy. The application demonstrates core manufacturing execution concepts using Java, Spring Boot, REST APIs, and MySQL.",
+  },
+  {
+    title: "ERP–MES Integration Service",
+    status: "In Development",
+    stack: "Java • Spring Boot • REST APIs • JSON • SQL",
+    description:
+      "A lightweight integration project simulating communication between ERP and MES systems. The service receives production orders from an ERP simulator, processes manufacturing data in MES, and sends production confirmations and status updates back to ERP through REST APIs.",
+  },
+];
 
   return (
     <div className="bg-gray-900 text-white min-h-screen font-sans scroll-smooth">
