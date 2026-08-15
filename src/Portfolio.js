@@ -15,7 +15,7 @@ export default function Portfolio() {
           Abid Shaik
         </motion.h1>
         <motion.p className="text-xl text-gray-400 mb-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5, duration: 1 }}>
-          Software Engineer | IT Graduate Student | Tech Explorer
+          MES Engineer | IT Graduate Student 
         </motion.p>
         <motion.div className="flex flex-wrap gap-6 text-2xl items-center justify-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1, duration: 1 }}>
           <a href="https://www.linkedin.com/in/abid-shaik-b48723257/" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:text-blue-400">
@@ -34,7 +34,7 @@ export default function Portfolio() {
       <section className="p-8 max-w-4xl mx-auto" id="about">
         <h2 className="text-3xl font-bold mb-4 border-b pb-2">About Me</h2>
         <p className="text-gray-300 leading-relaxed">
-          I’m Abid Shaik, a Master's student in Information Technology and Management at Webster University with a background in software engineering. I bring over three years of industry experience, specializing in Java, Python, SQL, and enterprise systems like OpenText Media Management. I enjoy building scalable systems and exploring new technologies that create real-world impact.
+          I’m Abid Shaik, an MES and Manufacturing Systems Engineer with 3.6 years of experience working with Siemens Opcenter Execution / SIMATIC IT, industrial system integration, and enterprise applications. My experience includes MES configuration, production workflows, PLC/SCADA integration, OPC-UA/DA connectivity, SAP/ERP integration, material tracking, genealogy, traceability, and production support. I also bring a strong software engineering background in Java, Spring Boot, Python, SQL, REST APIs, C#/.NET, and database technologies. I enjoy solving complex manufacturing challenges by connecting enterprise systems with real-time shop-floor operations and building reliable, scalable integration solutions.
         </p>
       </section>
 
@@ -42,15 +42,7 @@ export default function Portfolio() {
       <section className="p-8 max-w-4xl mx-auto" id="projects">
         <h2 className="text-3xl font-bold mb-4 border-b pb-2">Projects</h2>
         <ul className="space-y-4 text-gray-300">
-          <li>
-            <strong>Application Traceability Tool:</strong> Designed a matrix-based validation tool to map application features directly to business requirements, ensuring traceable and testable development workflows.
-          </li>
-          <li>
-            <strong>OpenText Media Management Enhancements:</strong> Improved digital asset workflows for enterprise users by integrating metadata automation and optimizing API-based interactions with OTMM.
-          </li>
-          <li>
-            <strong>Resume Ranking App:</strong> Developed a web-based tool using Python and JavaScript to automatically rank and score resumes based on relevance to job descriptions using keyword density and scoring algorithms.
-          </li>
+         <li> <strong>MES Production Tracking System:</strong> Developing a Java and Spring Boot based MES simulation for production order execution, work-order management, material consumption, equipment tracking, product genealogy, traceability, and ERP-to-MES integration using REST APIs and SQL. </li> <li> <strong>Industrial Equipment Integration & Monitoring:</strong> Designed an MES integration workflow to capture shop-floor equipment data through PLC/SCADA and OPC-UA communication, supporting equipment status monitoring, production counts, process parameters, alarms, downtime events, and manufacturing data collection. </li> <li> <strong>ERP–MES Integration Service:</strong> Developed an integration concept for exchanging production orders, material and master data, production confirmations, inventory transactions, and manufacturing status updates between ERP and MES systems using REST APIs, JSON/XML, and SQL. </li> <li> <strong>Inventory Management API:</strong> Built a backend inventory management application using Java, Spring Boot, MySQL, and REST APIs with product management, CRUD operations, database persistence, validation, and structured service-layer architecture. </li>
         </ul>
       </section>
 
