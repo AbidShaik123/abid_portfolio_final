@@ -155,7 +155,7 @@ export default function Portfolio() {
           </a>
 
           <a
-            href="https://github.com/abidshaik"
+            href="https://github.com/AbidShaik123"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 px-5 py-3 rounded-lg transition"
