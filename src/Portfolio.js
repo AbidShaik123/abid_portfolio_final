@@ -154,7 +154,7 @@ export default function Portfolio() {
           </a>
 
           <a
-            href="mailto:abidshaik.dev@gmail.com"
+            href="mailto:abidshaik2498@gmail.com"
             className="flex items-center gap-2 border border-gray-600 hover:border-gray-400 px-5 py-3 rounded-lg transition"
           >
             <FaEnvelope />
