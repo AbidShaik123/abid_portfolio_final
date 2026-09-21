@@ -407,7 +407,7 @@ export default function Portfolio() {
           </p>
 
           <a
-            href="/ABID SHAIK.docx"
+            href="/ABID SHAIK MES ENGINEER.docx"
             className="inline-flex items-center gap-2 bg-blue-600 text-white px-7 py-3 rounded-lg font-semibold hover:bg-blue-700 transition"
             download
           >
@@ -437,7 +437,7 @@ export default function Portfolio() {
 
             <div className="space-y-3">
               <a
-                href="mailto:abidshaik.dev@gmail.com"
+                href="mailto:shaikabid2411@gmail.com"
                 className="flex items-center gap-3 text-gray-300 hover:text-blue-400"
               >
                 <FaEnvelope />
