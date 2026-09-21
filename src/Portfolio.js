@@ -170,13 +170,7 @@ export default function Portfolio() {
         </h2>
 
         <p className="text-gray-300 leading-8">
-          I&apos;m Abid Shaik, an MES and Manufacturing Systems Engineer with
-          3+ years of experience working with Siemens Opcenter Execution /
-          SIMATIC IT, industrial system integration, and enterprise
-          applications. My experience includes MES configuration, production
-          workflows, PLC/SCADA integration, OPC-UA/DA connectivity, SAP/ERP
-          integration, material tracking, genealogy, traceability, testing,
-          deployment, and production support.
+          I&apos;m Abid Shaik, I'm Abid Shaik, an MES and Manufacturing Systems Engineer with 5+ years of combined experience in manufacturing systems, MES applications, industrial automation integration, enterprise applications, and production support. My experience includes working with Siemens Opcenter Execution / SIMATIC IT and Emerson Syncade MES, along with MES configuration, production workflows, electronic batch records (eBR/EBR), recipe management, PLC/SCADA integration, OPC-UA/DA connectivity, SAP/ERP and LIMS integration, material tracking, genealogy, traceability, testing, deployment, troubleshooting, and production support.
         </p>
 
         <p className="text-gray-300 leading-8 mt-4">
