@@ -437,11 +437,11 @@ export default function Portfolio() {
 
             <div className="space-y-3">
               <a
-                href="mailto:shaikabid2411@gmail.com"
+                href="mailto:shaikabid1124@gmail.com"
                 className="flex items-center gap-3 text-gray-300 hover:text-blue-400"
               >
                 <FaEnvelope />
-                abidshaik.dev@gmail.com
+              shaikabid1124@gmail.com
               </a>
 
               <a
